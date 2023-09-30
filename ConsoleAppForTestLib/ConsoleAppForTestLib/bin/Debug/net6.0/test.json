@@ -1,0 +1,8 @@
+{
+    "name":"test",
+    "fields": [
+      {"type": "binary", "name": "data1", "value": "91F0830511BA74289BB00162"},
+      {"type": "int", "name": "offset", "value": 6},
+      {"type": "int", "name": "shift", "value": 3}
+    ]
+}  

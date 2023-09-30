@@ -1,0 +1,17 @@
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\ConsoleAppForTestLib.exe
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\ConsoleAppForTestLib.deps.json
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\ConsoleAppForTestLib.runtimeconfig.json
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\ConsoleAppForTestLib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\ConsoleAppForTestLib.pdb
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.csproj.CopyComplete
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\refint\ConsoleAppForTestLib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.pdb
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ConsoleAppForTestLib.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\obj\Debug\net6.0\ref\ConsoleAppForTestLib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTestLib\ConsoleAppForTestLib\bin\Debug\net6.0\Newtonsoft.Json.dll

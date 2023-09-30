@@ -1,0 +1,16 @@
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\bin\Debug\net6.0\ConsoleAppForTest2Lib.exe
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\bin\Debug\net6.0\ConsoleAppForTest2Lib.deps.json
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\bin\Debug\net6.0\ConsoleAppForTest2Lib.runtimeconfig.json
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\bin\Debug\net6.0\ConsoleAppForTest2Lib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\bin\Debug\net6.0\ConsoleAppForTest2Lib.pdb
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.csproj.CopyComplete
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\refint\ConsoleAppForTest2Lib.dll
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.pdb
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ConsoleAppForTest2Lib.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\AnotherTestTask\ConsoleAppForTest2Lib\ConsoleAppForTest2Lib\obj\Debug\net6.0\ref\ConsoleAppForTest2Lib.dll
